@@ -1,7 +1,7 @@
 # Queue
 
 ### Type
-Abstract Data Type
+Abstract Data Structure
 
 ### Definition
 A queue is an abstract data type which supports First in First Out behavior (FIFO). It's required to support the following functiontality: 
@@ -112,5 +112,4 @@ class Node {
 
 ### Resource Links
 * [Interview Cake Definition](https://www.interviewcake.com/concept/javascript/queue?)
-* [BTB SWE Queue Problem](https://backtobackswe.com/platform/content/the-balanced-parentheses-problem)
 * [BTB SWE Queue With Stacks Video](https://youtu.be/Wg8IiY1LbII)
