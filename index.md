@@ -6,9 +6,13 @@
 * [Queue](https://hannahlivnat.github.io/algonotes/data-structure-notes/queue)
 * [Stack](https://hannahlivnat.github.io/algonotes/data-structure-notes/stack)
 * [Graph](https://hannahlivnat.github.io/algonotes/data-structure-notes/graph)
+* [Tree](https://hannahlivnat.github.io/algonotes/data-structure-notes/tree)
 
 ### Algorithm Notes
 * [Search](https://hannahlivnat.github.io/algonotes/algo-notes/search)
 
+### Primitives Notes
+
 ### External Useful Links for Data Structure / Algo Overviews
 * [Guide to Data Structures and Algorithms](https://towardsdatascience.com/a-data-scientists-guide-to-data-structures-algorithms-part-2-6bc27066f3fe)
+* [basecs page](https://medium.com/basecs)
